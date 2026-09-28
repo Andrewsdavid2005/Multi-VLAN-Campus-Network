@@ -1,4 +1,4 @@
-# Multi-VLAN Campus Network 🚀
+# Multi-VLAN Campus Network 
 
 A medium-level enterprise campus networking project designed and
 implemented using Cisco Packet Tracer.
@@ -9,7 +9,7 @@ troubleshooting.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project simulates a campus network with multiple departments
 using separate VLANs.
@@ -28,7 +28,7 @@ The network provides:
 
 ---
 
-## 🌐 Network Topology
+## Network Topology
 
 The network consists of:
 
